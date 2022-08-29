@@ -1,0 +1,12 @@
+[package]
+name = "vpwg"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glium = "*"
+glsl-layout = "0.4.1"
+nalgebra-glm = "0.3"
+device_query = "0.2.8"
